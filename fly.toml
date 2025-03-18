@@ -3,7 +3,7 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'reward-function-python'
+app = 'reward-function-python-0'
 primary_region = 'sjc'
 
 [build]
